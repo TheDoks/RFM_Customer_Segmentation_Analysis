@@ -91,7 +91,7 @@ The dashboard includes interactive RFM selection. Selecting an RFM score updates
 
 ## Dashboard Preview
 
-![RFM Customer Segmentation Dashboard](RFM_Customer_Segmentation_Dashboard)
+![RFM Customer Segmentation Dashboard](RFM_Customer_Segmentation_Dashboard.png)
 
 ## Project Outcome
 
