@@ -84,17 +84,14 @@ The dashboard includes interactive RFM selection. Selecting an RFM score updates
 ## Files
 
 - `RFM_Customer_Segmentation.xlsx` — Excel workbook containing the cleaned data, RFM calculations and analysis
-- `RFM_Customer_Segmentation.twbx` — Tableau packaged workbook
-- `rfm_dashboard.png` — Tableau dashboard screenshot
-- `rfm_dashboard2.png` — Additional dashboard screenshot
+- `RFM_Customer_Segmentation.twb` — Tableau packaged workbook
+- `RFM_Customer_Segmentation_Dashboard` — Tableau dashboard screenshot
 
 > **Note:** The complete Excel workbook may exceed GitHub's file size limit because of the volume of transaction-level data. Where necessary, the full workbook can be hosted externally and linked from this repository.
 
 ## Dashboard Preview
 
-![RFM Customer Segmentation Dashboard](rfm_dashboard.png)
-
-![RFM Customer Segmentation Dashboard](rfm_dashboard2.png)
+![RFM Customer Segmentation Dashboard](RFM_Customer_Segmentation_Dashboard)
 
 ## Project Outcome
 
